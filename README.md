@@ -16,7 +16,7 @@ Backend as a Service or "BaaS" products are third-party services that can be int
 
 - [Auth0](https://auth0.com/) - Single Sign On and token-based authentication service
 - [Okta](https://www.okta.com/) - Enterprise-focused identity and authentication service
-- [Neon Auth](https://neon.com/docs/neon-auth/overview) - Managed authentication built on Stack Auth that syncs users directly into your Postgres database
+- [Neon Auth](https://neon.com/docs/neon-auth/overview) - Managed authentication built on Better Auth that syncs users directly into your Postgres database
 
 ## Content Management
 
